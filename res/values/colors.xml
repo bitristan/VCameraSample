@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="darkgray">#404040ff</color>
+    <color name="black">#000</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#0ff0ff</color>
+    <color name="lightgray">#c0c0c0ff</color>
+    <color name="white">#ffffffff</color>
+    <color name="yellow">#ffFF33ff</color>
+    <color name="blue">#ff0f81d9</color>
+    <color name="gray">#ff666666</color>
+    <color name="magenta">#ff6699ff</color>
+    <color name="cyan">#66ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_black">#ff000000</color>
+    <color name="background_dark">#f0f0f0</color>
+    <color name="camera_bg">#2c2c2c</color>
+    <color name="camera_progress">#2980B9</color>
+    <color name="camera_progress_split">#005084</color>
+    <color name="camera_progress_three">#24ff00</color>
+    <color name="camera_progress_overflow">#1b5d89</color>
+    <color name="camera_theme_selected_bgcolor">#2980B9</color>
+</resources>

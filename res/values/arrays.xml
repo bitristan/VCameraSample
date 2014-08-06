@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_filter">
+        <item>原始</item>
+        <item>黑白</item>
+        <item>锐化</item>
+        <item>老照片</item>
+        <item>霓虹灯</item>
+        <item>反色</item>
+        <item>穿越</item>
+        <item>马赛克</item>
+        <item>怀旧</item>
+    </string-array>
+</resources>
